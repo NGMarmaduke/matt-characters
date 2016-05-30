@@ -1,0 +1,22 @@
+Bad Luck (Major): One less benny per session
+Bloodthirsty (Major): Never takes prisoners
+Clueless (Major): -2 to most Common Knowledge rolls
+Code of Honor (Major): The character keeps his word and acts like a gentleman
+Curious (Major): Character wants to know about everything
+Delusional (Major): Character suffers from grave delusions
+Bad Eyes (Major): -2 to attack or notice something more than 5" distant
+Elderly (Major): Pace -1, -1 to Strength and Vigor die types; 5 extra skill points for any skill linked to Smarts
+Enemy (Major): The character has a recurring nemesis of some sort
+Greedy (Major): The character is obsessed with wealth
+Habit (Major): A Minor Habit is simply annoying; characters must make Fatigue rolls when deprived of Major Habits
+Hard of Hearing (Major): -2 to Notice sounds; automatic failure if completely deaf
+Heroic (Major): The character is a true hero and always helps those in need
+Lame (Major): -2 Pace and running die is a d4
+Overconfident (Major): The hero believes he can do anything
+Pacifist (Major): The character fights only in self-defense as a Minor Hindrance, and won't fight living creatures under any circumstance as a major Hindrance
+Small (Major): -1 Toughness
+Vengeful (Major): Character holds a grudge, will kill to settle the score as a Major Hindrance
+Vow (Major): The hero has a pledge to himself, a group, a deity, or a religion
+Wanted (Major): The character is a criminal of some sort
+Yellow (Major): The character is cowardly and suffers -2 to his Guts rolls
+Young (Major): 3 points for Attributes (instead of 5); 10 skill points (instead of 15), +1 benny per session

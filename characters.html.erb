@@ -1,0 +1,20 @@
+<% @characters.each do |character| %>
+  <p>
+    <h3><%= character.name %></h3>
+    <p><%= character.pronoun %> is <%= character.height %> tall, with <%= character.skin %> skin, <%= character.eyes %> eyes and <%= character.hair %> hair.</p>
+    <p>
+      <b>Concept:</b> <%= character.concept %><br />
+      <b>Attributes:</b> <%= character.attributes.join(', ') %><br />
+      <b>Skills:</b> <%= character.skills.join(', ') %><br />
+      <b>Charisma:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;, <b>Pace:</b> 6 , <b>Parry:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
+      <b>Toughness:</b> <%= character.toughness %><br />
+      <b>Hindrances:</b><br />
+      <% character.hindrances.each do |hindrance| %>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<%= hindrance %><br />
+      <% end %>
+      <b>Edges:</b> <%= character.edges.join(', ') %>
+    </p>
+  </p>
+
+  <hr>
+<% end %>

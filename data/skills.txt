@@ -1,0 +1,23 @@
+Fighting
+Piloting
+Shooting
+Stealth
+Athletics
+Larceny
+Healing
+Investigation
+Knowledge (science)
+Knowledge (history)
+Knowledge (battle)
+Knowledge (economy)
+Notice
+Psionics Arcane
+Repair
+Streetwise
+Survival
+Taunt
+Throwing
+Tracking
+Guts
+Intimidation
+Persuasion

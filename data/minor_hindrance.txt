@@ -1,0 +1,24 @@
+All Thumbs (Minor): -2 Repair; Roll of 1 on a mechanical or electronic device causes malfunction
+Anemic (Minor): -2 vigor to resist sickness, disease, or environment
+Bad Eyes (Minor): -2 to attack or notice something more than 5" distant
+Cautious (Minor): Character is overly cautious
+Death Wish (Minor): Hero wants to die after completing some task
+Delusional (Minor): Character suffers from grave delusions
+Doubting Thomas (Minor): Character doesn't believe in the supernatural
+Enemy (Minor): The character has a recurring nemesis of some sort
+Greedy (Minor): The character is obsessed with wealth
+Habit (Minor): A Minor Habit is simply annoying; characters must make Fatigue rolls when deprived of Major Habits
+Hard of Hearing (Minor): -2 to Notice sounds; automatic failure if completely deaf
+Loyal (Minor): The hero tries to never betray or disappoint his friends
+Mean (Minor): The character suffers -2 to his Charisma for his ill-temper and surliness
+Obese (Minor): +1 Toughness, -1 Pace, d4 running die
+Outsider (Minor): -2 Charisma, treated badly by those of the more dominant society
+Overconfident (Major): The hero believes he can do anything
+Pacifist (Minor): The character fights only in self-defense as a Minor Hindrance, and won't fight living creatures under any circumstance as a major Hindrance
+Poverty (Minor): Half starting funds, general inability to hang onto future income
+Quirk (Minor): The character has some minor but persistent foible, such as bragging, elitism, or the pursuit of fame
+Stubborn (Minor): Hero always wants his way
+Ugly (Minor): -2 Charisma due to the character's less-than- average appearance
+Vengeful (Minor): Character holds a grudge, will kill to settle the score as a Major Hindrance
+Vow (Minor): The hero has a pledge to himself, a group, a deity, or a religion
+Wanted (Minor): The character is a criminal of some sort
